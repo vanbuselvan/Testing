@@ -1,3 +1,6 @@
 hello
 asdfasdfasdf
 gfhghghghghghhg
+function y (){
+y
+}
