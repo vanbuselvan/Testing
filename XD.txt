@@ -1,17 +1,1 @@
-functions
-function x (){
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-}
-function y(){
-y
-}
+hello
