@@ -4,3 +4,10 @@ gfhghghghghghhg
 function y (){
 y
 }
+function x(){
+x
+x
+x
+x
+x
+}
