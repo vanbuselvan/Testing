@@ -8,3 +8,6 @@ x
 x
 x
 }
+function y(){
+y
+}
